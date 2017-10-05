@@ -5,7 +5,7 @@ frank=turtle.Turtle()
 frank.penup()
 frank.backward(200)
 frank.pendown()
-frank.color("pink")
+frank.color(pink)
 frank.pensize(5)
 def drawsquares(frank,length):
     for i in range(5):

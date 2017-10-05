@@ -20,7 +20,7 @@ def draw_bigger_squares(frank,size):
 square=20
 for i in range(5):
     draw_bigger_squares(frank,square)
-    square=square+20
+    square=20
     
         
     

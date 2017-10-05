@@ -9,7 +9,6 @@ def draw_astar(frank,length):
         for i in range (5):
             frank.forward(length)
             frank. right(144)
-        frank.penup()
         frank.forward(350)
         frank.right(144)
         frank.pendown()

@@ -6,4 +6,4 @@ def draw_a_star(frank,length):
         frank.forward(length)
         frank. right(144)
 frank.hideturtle()
-draw_astar(frank,100)
+draw_a_star(frank,100)
